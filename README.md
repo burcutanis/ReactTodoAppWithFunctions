@@ -1,4 +1,4 @@
-# Todo App With React Functions
+# Todo App With React Function Component
 
 It is a simple app which I wrote during the learning process of react.js.
 It was writting by using react functions.
